@@ -1,1 +1,2 @@
-# my-group-projects
+# Projeto de pratica profissional ADS 
+## Gruopo Developers 
